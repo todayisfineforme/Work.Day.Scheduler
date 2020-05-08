@@ -39,6 +39,11 @@ $(document).ready(function(){
         setInterval(update, 1000);
     });
 
+    $('textarea').each(function( index, element ){
+        console.log( $( this ));
+    });
+
+    console.log(now.format("H"));
 
 
 
