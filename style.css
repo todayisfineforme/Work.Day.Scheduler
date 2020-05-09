@@ -1,5 +1,3 @@
-/* * {border:1px solid red} */
-
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -40,7 +38,6 @@ textarea{
 }
 
 .row {
-  /* white-space: pre-wrap; */
   height: 80px;
   border-top: 1px solid white;;
 }
