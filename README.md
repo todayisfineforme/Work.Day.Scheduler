@@ -1,14 +1,10 @@
 # Workday Schedule
 
-Foobar is a Python library for dealing with word pluralization.
+Webpage utilizing javascript and bootstrap that allows user to plan out and store their workday schedule in localstorage that persists between browser sessions.
 
 ## Installation
 
 Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
-
-```bash
-npm install foobar
-```
 
 ## Usage
 
