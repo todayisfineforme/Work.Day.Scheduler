@@ -4,8 +4,6 @@ Webpage utilizing javascript and bootstrap that allows user to plan out and stor
 
 ## Installation
 
-Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
-
 ## Usage
 
 ```node.js
