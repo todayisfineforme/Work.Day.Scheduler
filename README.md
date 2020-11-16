@@ -2,8 +2,6 @@
 
 Webpage utilizing javascript and bootstrap that allows user to plan out and store their workday schedule in localstorage that persists between browser sessions.
 
-## Installation
-
 ## Usage
 
 ```node.js
