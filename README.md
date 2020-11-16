@@ -18,5 +18,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-https://todayisfineforme.github.io/homework.work.day.scheduler.nathan.hall/
