@@ -1,4 +1,4 @@
-# homework.work.day.scheduler.nathan.hall
+# Workday Schedule
 
 Foobar is a Python library for dealing with word pluralization.
 
